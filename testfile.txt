@@ -1,2 +1,3 @@
 second line added
 edit from second machine
+add a line from 2nd machine
